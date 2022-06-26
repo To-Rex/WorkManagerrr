@@ -1,2 +1,0 @@
-"# WorkManager-RN" 
-"# WorkManagerrr" 
